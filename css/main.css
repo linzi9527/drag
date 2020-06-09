@@ -1,0 +1,29 @@
+.nav {
+    width:100%;
+    height:50px;
+    background-color:red;
+}
+.main_container{
+    position:relative;
+    width:100%;
+}
+
+.left_toolbox{
+    width: 300px;
+    height: 700px;
+    background: #333333;
+    position:absolute;
+}
+
+.middle_build_panal{
+    background: #cccccc;
+}
+
+.right_settingbox{
+    position:absolute;
+    top:0;
+    right:0;
+    width: 300px;
+    height: 700px;
+    background: coral;
+}
